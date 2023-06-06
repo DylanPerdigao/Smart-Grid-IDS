@@ -7,7 +7,7 @@ Focusing on cybersecurity risks and, more specifically, anomaly detection. The p
 
 ### Nodes configuration
 
-The configuration is made on [´./data/nodes.conf´](./data/nodes.conf) file. The base configurations is defined as the following example:
+The configuration is made on [´./data/nodes.conf´](./data/nodes.conf) file. The base configuration is defined as the following example:
 
 ![System Architecture](./images/architecture.png)
 
