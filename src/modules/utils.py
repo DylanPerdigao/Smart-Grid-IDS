@@ -13,7 +13,6 @@ from scipy.io import arff
 from sklearn.preprocessing import StandardScaler, OrdinalEncoder, LabelEncoder
 
 DATASET_NAME = "iec61850_security"
-IS_BASELINE_SCENARIO = False
 
 def read_data(folder_path, max_rows=None, nominal=False, verbose=False):
     """

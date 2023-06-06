@@ -3,11 +3,10 @@ dowhy
 flwr
 paho-mqtt
 pandas
-pickle
 matplotlib
 networkx
 numba
 numpy
 scipy
-sklearn
+scikit-learn
 sktime
