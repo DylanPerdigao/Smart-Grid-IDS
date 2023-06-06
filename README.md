@@ -1,5 +1,8 @@
 # Smart-Grid-IDS
 
+The emergence of 5G and the Internet of Things has prompted nations across the globe to develop Smart Grids, an advanced electrical grid infrastructure capable of producing and transporting energy in a more reliable, sustainable, and efficient way. In addition, IoT devices, called smart meters, allow monitoring in real-time the energy production, consumption, and distribution. This large amount of data produced by the Smart Grid enables intelligent energy flow management to end-point consumers. With the nature of renewable energy sources such as solar and wind, this management is crucial to balance electricity supply and demand efficiently, avoiding energy loss. However, Smart Grids face several challenges, such as costs for upgrading current infrastructures, interoperability with the traditional energy grids, or privacy and cybersecurity risks due to the large number of distributed devices providing data to the grid.
+Focusing on cybersecurity risks and, more specifically, anomaly detection. The proposed solution enables us to detect real-time cyberattacks in the Smart Grid through the network traffic between devices. Anomaly detection is performed through Time-Series Classifiers and by attending to real and frequent problems, such as data imbalance and causality, using real-world network traffic datasets. To turn our simulated context more realistic, we decided to simulate a Smart Grid with a Federated Learning environment through the *Flower* framework. Similar to a conventional Smart Grid, the system comprises several distributed nodes communicating between them.
+
 ## Configuration
 
 ### Nodes configuration
